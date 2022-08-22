@@ -4,7 +4,7 @@
 
 You can show,add and delete notes. It is basic application for learning date and crud operations.
 
-## 🌟Screenshot
+## 🌟Screenshots
 <p align="center">
 <img src="https://github.com/seymafirat/note-app/blob/main/add-and-delete-notes.gif" width="32%"/>&emsp;&emsp;&emsp;
 <img src="https://github.com/seymafirat/note-app/blob/main/get-notes.gif" width="32%"/>
